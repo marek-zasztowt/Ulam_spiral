@@ -1,5 +1,4 @@
 import pygame
-# from time import sleep as czekaj
 
 def is_prime_number(number):
     if number <= 1:
@@ -59,7 +58,7 @@ offset = pixel_size // 2
 x_pos -= offset
 y_pos -= offset
 pygame.draw.rect(ekran, color_start, pygame.Rect(x_pos, y_pos, pixel_size, pixel_size))     # plot START pixel
-#            x , y
+#               x      ,  y
 step_xy = [( pixel_size,  0),
            ( 0         , pixel_size),
            (-pixel_size,  0),
