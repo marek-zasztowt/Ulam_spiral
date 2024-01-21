@@ -1,4 +1,4 @@
-# Ulam_spiral
+# Ulam spiral
 This is my version of the Ulam spiral (not actually a spiral but circles). 
 
 The original spiral is:
